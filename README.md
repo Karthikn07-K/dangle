@@ -2,11 +2,7 @@
 
 > **A tiny charm for your desktop. A little motion for your day.**
 
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)](#-download)
-[![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white)](#-for-developers)
-[![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52?logo=qt&logoColor=white)](#-for-developers)
-[![Open
-Source](https://img.shields.io/badge/Open%20Source-Yes-2ea44f)](#-contributing)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)]
 [![Download Dangle](https://img.shields.io/badge/Download-Dangle%20for%20Windows-0078D4?logo=windows&logoColor=white)](https://github.com/Karthikn07-K/Dangle/releases/download/Dangle/Dangle.exe)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
 
