@@ -2,7 +2,7 @@
 
 > **A tiny charm for your desktop. A little motion for your day.**
 
-[Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?logo=windows&logoColor=white)](#OS)
 [![Download Dangle](https://img.shields.io/badge/Download-Dangle%20for%20Windows-0078D4?logo=windows&logoColor=white)](https://github.com/Karthikn07-K/Dangle/releases/download/Dangle/Dangle.exe)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
 
