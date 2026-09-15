@@ -370,10 +370,10 @@ If Dangle makes your desktop a little more fun, consider:
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### 🧵 Dangle
 
 **Hang anything. Swing everything.**
 
 Built with ❤️ by **Inspired.KN**
-:::
+
