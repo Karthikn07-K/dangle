@@ -7,7 +7,7 @@
 [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52?logo=qt&logoColor=white)](#-for-developers)
 [![Open
 Source](https://img.shields.io/badge/Open%20Source-Yes-2ea44f)](#-contributing)
-[![Download & Have Fun](https://github.com/Karthikn07-K/Dangle/releases/download/Dangle/Dangle.exe)](#-contributing)
+[![Download](https://github.com/Karthikn07-K/Dangle/releases/download/Dangle/Dangle.exe)](#-download)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
 
 **Dangle** is an open-source Windows desktop companion that hangs from
